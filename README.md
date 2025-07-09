@@ -5,7 +5,7 @@
 
 Hey there! Welcome to my Movie Recommender System, a fun project I built to help you discover movies you’ll love. Pick a movie you enjoy, and this app will suggest similar ones, complete with posters to spark your interest. It’s powered by machine learning and wrapped in a slick Streamlit interface. I’m Poornasai, and I had a blast putting this together—hope you enjoy it!
 
-Check out my GitHub: [kpoornasai121](https://github.com/paulanurag05)
+Check out my GitHub: [paulanurag05](https://github.com/paulanurag05)
 
 ## What’s This All About?
 
